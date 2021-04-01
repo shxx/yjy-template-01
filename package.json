@@ -1,1 +1,17 @@
+{
+  "name": "{{projectName}}",
+  "version": "1.0.1",
+  "bin": {
+    "yjy-cli": "bin/yjy.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{{author}}",
+  "license": "ISC",
+  "dependencies": {},
+  "main": "index.js",
+  "devDependencies": {},
+  "description": "{{description}}"
+}
 
